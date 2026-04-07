@@ -1,2 +1,2 @@
-# My-Workspace
-This is my first workspace for assignment purpose.
+# My Project
+This repository contains the source code for My Project, a simple application to demonstrate GIT usage.
